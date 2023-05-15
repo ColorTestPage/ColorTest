@@ -1,0 +1,101 @@
+.container-test{
+  width: 750px;
+  height: 400px;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 10px;
+  display: none;
+}
+
+.popup{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 94.7vh;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 94.7vh;
+}
+
+.h1
+{
+  color: black;
+}
+
+/* background colors */
+
+.bckg-index
+{
+  background-color: white;
+  border-left: 3px;
+
+}
+
+.bckg-red
+{
+  background-color: #FF0000;
+}
+
+.bckg-black
+{
+  background-color: #000000;
+  
+}
+
+.bckg-white
+{
+  background-color: #FFFFFF;
+}
+
+.bckg-blue
+{
+  background-color: #0099CC;
+}
+
+.bckg-green
+{
+  background-color: #00A427;
+}
+
+.bckg-yellow
+{
+  background-color: #FFFF33;
+}
+
+/* other background colors */
+
+.bckg-pink
+{
+  background-color: pink;
+}
+
+.bckg-orange
+{
+  background-color: orange;
+}
+
+.bckg-brown
+{
+  background-color: brown;
+}
+
+.bckg-gray
+{
+  background-color: gray;
+}
+
+/* ghost icon */
+
+#ghostii {
+  width: 50px;
+  padding-block-start: 2;
+  opacity: 0;
+}
+
+#ghostii:hover {
+  opacity: 1;
+}
